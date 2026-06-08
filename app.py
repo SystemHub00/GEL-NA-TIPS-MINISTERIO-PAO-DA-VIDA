@@ -38,7 +38,7 @@ LOCAL_OPTIONS = [
 # CATÁLOGO DE CURSOS
 # ──────────────────────────────────────────────
 COURSE_CATALOG = [
-    {"id": "1", "local_id": "1", "nome": "💅 NAILS DESIGNER"},
+    {"id": "1", "local_id": "1", "nome": "EXTENSÃO DE CÍLIOS"},
 ]
 
 # ──────────────────────────────────────────────
